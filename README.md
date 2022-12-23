@@ -1,4 +1,4 @@
-# VikiMedia Official WebPage 
+# Kurisu TV  
 
 https://VikiMedia.netlify.app/
 
