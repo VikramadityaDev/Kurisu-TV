@@ -1,5 +1,5 @@
 # Kurisu TV  
 
-https://VikiMedia.netlify.app/
+https://kurisu-tv.netlify.app/
 
 Do follow me on GitHub 🌟
